@@ -1,9 +1,9 @@
 # Site settings
 course_name: Basic Programming 
-course_description: "Welcome to the Basic Programming course of Department of Mathematical Sciences Sharif University of Technology.     Saturday and Monday 10:30-12:30 AM."
-course_semester: "Autumn 2024"
+course_description: "Welcome to the Basic Programming course of Department of Mathematical Sciences Sharif University of Technology.     Saturday and Monday 3-5 PM."
+course_semester: "fall 2025"
 
-baseurl: "/Basic-Programming-Autumn-03" # the subpath of your site, e.g. /blog/
+baseurl: "/Basic-Programming-Autumn-04" # the subpath of your site, e.g. /blog/
 url: "http://theblackdemon.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Sharif University of Technology"
