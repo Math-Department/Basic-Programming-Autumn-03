@@ -1,132 +1,15 @@
 instructors:
-  - name: Dr Hossein Boomari
+  - name: Dr Hadi Taheri
     profile_pic: /_images/pp/Programming_code.jpg
     webpage: mh.hima@gmail.com
 
 developers:
   - name: Mohammad Mahdi Asgari
-    profile_pic: /_images/pp/MMA.jpg
+    profile_pic: 
     webpage: asgarimohammadmahdi78@gmail.com
-  - name: Zeynab Ashouri
-    profile_pic: /_images/pp/ZEY.jpg
-    webpage: zeynabashouri21@gmail.com
-assignments :
-  - name: Mohammad Mahdi Asgari
-    profile_pic: /_images/pp/MMA.jpg
-    webpage: asgarimohammadmahdi78@gmail.com
-  - name: Mohammad Javad Gharegozlou
-    profile_pic: /_images/pp/mjghr.jpg
-    webpage: mjghrfr@gmail.com  
-  - name: erfan Ghorbani
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: erfan23g@icloud.com
-  - name : Kousha Moeini
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage : koushamoeini@gmail.com
-  - name : Parsa Gholami
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage : parsagholami138396@gmail.com
-content :
-  - name: Mohammad Mahdi Asgari
-    profile_pic: /_images/pp/MMA.jpg
-    webpage: asgarimohammadmahdi78@gmail.com
-  - name: Zeynab Ashouri
-    profile_pic: /_images/pp/ZEY.jpg
-    webpage: zeynabashouri21@gmail.com
-  - name: Mahsa Sajadpour
-    profile_pic: /_images/pp/mahsa.jpg
-    webpage: sajadpour.mahsa@gmail.com
+
 teaching_assistants:
   - name: Mohammad Mahdi Asgari
-    profile_pic: /_images/pp/MMA.jpg
+    profile_pic: 
     webpage: asgarimohammadmahdi78@gmail.com
-  - name: Zeynab Ashouri
-    profile_pic: /_images/pp/ZEY.jpg
-    webpage: zeynabashouri21@gmail.com
-  - name: Aryan Noorzadeh
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: aarriinnoorr1317@gmail.com
-  - name: Mahdi Khoshnevis
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: khoshnewiss@gmail.com
-  - name: Shayan Salehi
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: shayansalehisut@gmail.com
-  - name: Mahdi Zahedi
-    profile_pic: /_images/pp/studentPhoto.jpg
-    webpage: mahdi.zahedi.mahdi@gmail.com
-  - name: erfan Ghorbani
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: erfan23g@icloud.com
-  - name: Maryam Mehdizadeh
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: maryam.mehdizadeh1384@gmail.com
-  - name: Raya Namazi
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: nmzraya@gmail.com
-  - name: Mahdi Rasoulzade
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: edu@itsmahdi.con
-  - name: Amirali Shafiei
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: amiralishafiei200@gmail.com
-  - name: Helia Yazdani
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: heyazdani2005@gmail.com
-  - name: Souroosh Najafi
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: sourooshnajafi@gmail.com
-  - name: Amir Malekhosseini 
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: amirmalekhosseini1@gmail.com
-  - name: MohamadReza Rahmani
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: mreza.rahmani83@gmail.com
-  - name: Mozhan Homavandi
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: mozhanhomavandi@gmail.com
-  - name: Nadia Afsar
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: nadiaafsar383@gmail.com
-  - name: Benyamin Karimizadeh
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: benyamin.karimizadeh@gmail.com
-  - name: Soheil Elahi
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: notesoweil@gmail.com
-  - name: Pouya Navid
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: pouyanavid200317@gmail.com
-  - name: Mobin Yousefi
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: the.mobin.yousefi@gmail.com
-  - name: Sara Mohammadi Mohammadi
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: saradoublemohammadi@gmail.com
-  - name: Kian Hasanzadeh
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: kian.hasanzadeh@gmail.com
-  - name: Masoud Mozafari
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: masoudmozafarivanani@gmail.com
-  - name: Mehdi Taheri
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: mefi.taheri@gmail.com
-  - name: Farnaz HajManouchehri
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: farnaz.hajmanouchehri@gmail.com
-  - name: Mohammad Mahdi NouriBorji
-    profile_pic: /_images/pp/noori.jpg
-    webpage: mohammadmahdinoori70@gmail.com
-  - name: Mohammad Javad Gharegozlou
-    profile_pic: /_images/pp/mjghr.jpg
-    webpage: mjghrfr@gmail.com
-  - name: Mahsa Sajadpour
-    profile_pic: /_images/pp/mahsa.jpg
-    webpage: sajadpour.mahsa@gmail.com
-  - name: Kiana Kazemi
-    profile_pic: /_images/pp/kiana.jpg
-    webpage: kiana_kazemi1381@yahoo.com
-  - name: Mohammad Yasin Zare
-    profile_pic: /_images/pp/Programming_code.jpg
-    webpage: mohammadyzare1@gmail.com
+  
